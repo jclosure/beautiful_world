@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#caption {
+  color: white;
+  font-size: 48px;
+};
