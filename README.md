@@ -5,7 +5,7 @@ beautiful_world
 
 This is my first parallax animation experiment with Pixi.js.  Everything, you need to run it is contained in this repo.
 
-![alt text](https://raw.github.com/jclosure/beautiful_world/master/screenshot.png "Beautiful World Banner")
+[![alt text](https://raw.github.com/jclosure/beautiful_world/master/screenshot.png "Beautiful World Banner")](http://www.youtube.com/watch?v=Q_uWJSxUka4)
 
 
 Reference:
